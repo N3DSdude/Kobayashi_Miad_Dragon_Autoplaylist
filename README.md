@@ -1,11 +1,10 @@
-# Kobayashi_Miad_Dragon_Autoplaylist
+# Discord-Kobayashi San Chi no maid dragon
 ;[Welcome to the NHK]
 
-;Hitori no Tame no Lullaby
+[Hitori no Tame no Lullaby] (https://www.youtube.com/watch?v=Eht8_rhVMOs)
 
-https://www.youtube.com/watch?v=Eht8_rhVMOs
 
-;Youkoso! Hitori Bocchi (Instrumental)
+[Youkoso! Hitori Bocchi] (https://www.youtube.com/watch?v=CjDw6NVQDjA)
 
-https://www.youtube.com/watch?v=CjDw6NVQDjA
+
 
